@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lezione(28) 24Novembre2017 Memory vs CPU", "Lezione(28) 24Novembre2017 Memory vs CPU\Lezione(28) 24Novembre2017 Memory vs CPU.csproj", "{D0967438-FF1A-424D-BC82-17FC60856578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0967438-FF1A-424D-BC82-17FC60856578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0967438-FF1A-424D-BC82-17FC60856578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0967438-FF1A-424D-BC82-17FC60856578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0967438-FF1A-424D-BC82-17FC60856578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3E52AA-5D4F-43CC-868E-98936B0E9AEF}
+	EndGlobalSection
+EndGlobal
